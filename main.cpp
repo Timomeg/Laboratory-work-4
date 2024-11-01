@@ -27,9 +27,9 @@ vector<string> split(const string&, char sep);
 string join(const vector<string>&, const string& sep);
 
 int main() {
-    vector<int> vect1{-2, 9, 3, 2, -1, 9, 5, 6};
-    vector<string> vect2{"Roses", "are", "red", "violets", "are", "blue"};
-    string str = "Roses are red, violets are blue";
+    //vector<int> vect1{-2, 9, 3, 2, -1, 9, 5, 6};
+    //vector<string> vect2{"Roses", "are", "red", "violets", "are", "blue"};
+    //string str = "Roses are red, violets are blue";
     //cout << mean(vect1) << endl;
 
     //cout << minMax(vect1).first<<" " << minMax(vect1).second<< endl;
